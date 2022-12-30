@@ -9,4 +9,4 @@ npm install
 
 Fill your bottoken and clientid in config.json and run ``node deploy-commands.js`` to register commands. You only need to register the commands if you create new ones or change description or name.
 
-Run ```node .`` to start the bot
+Run ``node .``` to start the bot
